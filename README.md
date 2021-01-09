@@ -1,9 +1,6 @@
-# one-page-website-html-css-project-for-practice
-## Watch The Complete Tutorial : https://youtu.be/ZFQkb26UD1Y
+# 100Projects-Project1
+### I've decided to commit to building 100 Projects. I will then choose the best 5-6 projects for my portfolio.
 
-This project is for html &amp; css practice. We made this for youtube tutorial purpose.
-<b>coded by [Shaif Arfan](https://github.com/shaifarfan)</b>
-### 👍 HAVE FUN 👍
-Thanks, Arfan
+### Project 1 - One Page Website from <b>[Shaif Arfan](https://github.com/shaifarfan)</b> YouTube Tutorial.
 
-![Watch Now](./img/Design.jpg)
+This is my version of the one-page website.
